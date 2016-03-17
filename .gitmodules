@@ -1,3 +1,9 @@
 [submodule "submodules/mupdf-qt"]
 	path = submodules/mupdf-qt
 	url = https://github.com/xiangxw/mupdf-qt.git
+[submodule "submodules/QtXlsxWriter"]
+	path = submodules/QtXlsxWriter
+	url = https://github.com/dbzhang800/QtXlsxWriter.git
+[submodule "submodules/nightcharts"]
+	path = submodules/nightcharts
+	url = https://github.com/Nightmeister/nightcharts.git
