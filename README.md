@@ -1,5 +1,5 @@
-# Qt Optical Mark Reader and Analyzer.
-http://yamaken.geographers.asia/qomra/
+# Qt Optical Mark Reader and Analyzer
+http://ymm.jp/qomra/
 
 ## Submodules
 * nightcharts: https://github.com/Nightmeister/nightcharts.git
@@ -9,4 +9,13 @@ http://yamaken.geographers.asia/qomra/
 ## Libraries
 * Quazip: https://sourceforge.net/projects/quazip/
 * Mupdf: http://git.ghostscript.com/mupdf.git
-* opencv 2.4: https://github.com/itseez/opencv
+* OpenCV 2.4: https://github.com/itseez/opencv
+
+## Memo
+* Install Quazip, OpenCV, Qt5 (Homebrew and so on)
+* Build submodules
+* Set paths on Qt .pro file to libraries and modules
+* Stand-alonize?
+
+
+(c) 2015- kentay GPL v3
